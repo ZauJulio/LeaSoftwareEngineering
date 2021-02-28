@@ -97,7 +97,7 @@ In this section we have access to all the project planning, such as the backlog 
 
 Finally, the work packages, with filters such as Id, Subject, Type, Status, Assignment, Priority.
 
-### **Conclusões**
+### **Conclusions**
 
 <br/>
 
