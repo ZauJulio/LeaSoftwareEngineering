@@ -47,7 +47,7 @@ If you are using more "caliente" systems like Arch Linux(👏🎉) or something 
 
 Personally I use Arch Linux, it was the first time until today that I can't find the package in any Arch cumunity repository.However, I was able to install easily using Docker and following the official documentation tutorial.
 
-Após instalado ele deve iniciar em:
+Once installed it should start at:
 
 <br/>
 <p align="center">
